@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rudrac19
 - 👀 I’m interested in Paino, Coding, Sports, and Time Taveling
 - 🌱 I’m currently learning Python, C#, Unity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on RudraChauhan19
 - 📫 How to reach me https://rcpython19.wixsite.com/rcpython
 
 <!---
