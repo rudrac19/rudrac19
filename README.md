@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="500" src="https://s2.ezgif.com/tmp/ezgif-2799a1e600e9b9.gif"  />
-</div>
-
 ###
 
 <div align="center">
