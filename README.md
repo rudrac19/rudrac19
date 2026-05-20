@@ -31,3 +31,42 @@
 </div>
 
 ###
+
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'neutral'}}%%
+timeline
+     
+    2020 : Learned Python
+
+    2021 : Made many Python projects (Chess, Pong, etc)
+
+    2022 : Learned Unity
+         : Developed Cat Clicker & R-Cube
+
+    2023 : Released Bread: Sandwich Toaster
+         : Developed Anna Trilogy
+
+    2024 : Released Bread: Breakfast Runner
+         : Released Anna Part 1: The Awakenings
+
+    2025 : Released Snake&Ladder
+         : Math Competitions
+
+    2026 : Python, Java study
+         : Calculus, Probability Theory study
+         : Math Competitions
+         : Release Anna Part 2        
+
+    2027&Beyond : Develop and release 3D Graphing Calculater
+                : SQL, Machine Learning, API study
+                : Release weather application
+                : Release Anna Part 3
+                : Learn Proof Writing
+                : Math Competitions
+                : Release Bread 3
+```
+
+</div>
